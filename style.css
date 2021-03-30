@@ -1,0 +1,13 @@
+/* class ------------------------------------- */
+.header {
+  height: 100%;
+}
+
+.header__img {
+  object-fit: contain;
+}
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
